@@ -1,6 +1,6 @@
 # MDC for Material Components for Android (Kotlin)
 
-## Done With:
+## Build with:
 <ul>
 <li><a href="https://codelabs.developers.google.com/codelabs/mdc-101-kotlin#5">Kotlin 101: Material basics</a></li>
 <li><a href="https://codelabs.developers.google.com/codelabs/mdc-102-kotlin#0">Kotlin 102: Structure and layout</a></li>
